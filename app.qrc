@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="qss">
+    <file>style.qss</file>
+  </qresource>
+  <qresource prefix="exe">
+    <file>source/ffmpeg.exe</file>
+  </qresource>
+  <qresource prefix="pic">
+    <file>source/title.ico</file>
+  </qresource>
+</RCC>

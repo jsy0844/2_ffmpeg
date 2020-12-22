@@ -1,0 +1,12 @@
+QMainWindow{
+    background:#444444;
+}
+
+QPushButton{
+    color:#ffffff;
+    background:#777777;
+}
+
+QLabel{
+    color:#ffffff;
+}
