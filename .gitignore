@@ -1,0 +1,11 @@
+*.exe
+*.ico
+*_rc.py
+*.pkg
+__pycache__/
+build/
+dist/
+source/
+*.mp4
+*.mp3
+
